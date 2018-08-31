@@ -1,4 +1,4 @@
-# ddl-java-learning
+# Learning Java.....
 
 This program is simply something to tinker with while learning Java.  No real purpose =).  Has a command line menu system, free memory calculator, command line TODO app demonstrating database crud, and possibly other random code from learning Java along the way.
 
